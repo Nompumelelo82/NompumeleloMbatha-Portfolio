@@ -112,15 +112,16 @@ voice interaction and image recognition.
 > *This mock interview was conducted as part of my Work Readiness Training
 > at CPUT to prepare for professional job interviews in the ICT industry.*
 
-<!-- REPLACE the src URL below with your actual video link -->
-<video width="600" controls>
-  <source src="YOUR_VIDEO_FILE_URL_HERE" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Mock Interview Video
 
-<!-- OR if uploaded to YouTube, use this instead: -->
-<!-- [![Mock Interview](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+> *Mock interview conducted as part of Work Readiness Training at CPUT*
 
+<iframe width="600" height="340"
+src="https://www.youtube.com/embed/suM7of5qito"
+title="Mock Interview Video"
+frameborder="0"
+allowfullscreen>
+</iframe>
 ---
 
 ## 🪞 Reflections
