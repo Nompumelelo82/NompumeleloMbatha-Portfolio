@@ -43,17 +43,17 @@ A platform designed to help students find NSFAS-accredited accommodation and saf
 
 
 ---
-🎓 SchoolLoop System (In Progress 🚧)
+### 🎓 SchoolLoop System (In Progress 🚧)
 
 A full-stack school management system designed to improve communication between principals, teachers, students, and parents, while managing academic activities and centralizing school information.
 
-🔧 Technologies:
+🔧 **Technologies:**
 
 Frontend: React
 Backend: Node.js (Express)
 Database: MySQL
 
-✨ Features (Planned & In Development):
+✨** Features (Planned & In Development)**:
 
 Role-based access (Principal, Teacher, Student, Parent)
 Announcements and school updates
