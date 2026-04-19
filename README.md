@@ -1,15 +1,21 @@
 # NompumeleloMbatha-Portfolio
 # 👋 Hi, I'm Nompumelelo Mbatha
-
+**Aspiring Software Engineer | ICT Applications Development Student**
 💻 Aspiring Software Engineer  
 🎓 ICT Applications Development Student (CPUT)  
 📍 Cape Town, South Africa  
+ 143 Sir Lowry Street, Woodstock, Cape Town  
+📞 064 663 6026 | ✉️ 240256727@mycput.ac.za  
+🔗 [GitHub](https://github.com/Nompumelelo82)
+💼 [LinkedIn](https://www.linkedin.com/in/nompumelelo-mbatha-8685bb352/)
 
 ---
 
-## 🎯 Career Objective
-Motivated third-year ICT Applications Development student seeking a Work-Integrated Learning (WIL) opportunity in software engineering or application development. Passionate about building practical, user-centered solutions using modern technologies, with a strong focus on clean and maintainable code.
-
+## Career Objective
+A motivated third-year ICT Applications Development student at CPUT seeking 
+a Work-Integrated Learning placement in software engineering or application 
+development. Passionate about building practical solutions using modern 
+technologies, with a focus on clean code and user-centred design.
 ---
 
 
@@ -122,13 +128,6 @@ An assistive application designed for visually impaired students using voice int
 
 
 
-## 📬 Contact Me
-📞 064 663 6026  
-📧 240256727@mycput.ac.za
-🔗 GitHub: https://github.com/Nompumelelo82  
-🔗 LinkedIn: https://www.linkedin.com/in/nompumelelo-mbatha-8685bb352/
-
----
 
 
 ## 📋 References
