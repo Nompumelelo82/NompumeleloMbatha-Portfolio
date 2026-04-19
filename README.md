@@ -43,6 +43,24 @@ A platform designed to help students find NSFAS-accredited accommodation and saf
 
 
 ---
+🎓 SchoolLoop System (In Progress 🚧)
+
+A full-stack school management system designed to improve communication between principals, teachers, students, and parents, while managing academic activities and centralizing school information.
+
+🔧 Technologies:
+
+Frontend: React
+Backend: Node.js (Express)
+Database: MySQL
+
+✨ Features (Planned & In Development):
+
+Role-based access (Principal, Teacher, Student, Parent)
+Announcements and school updates
+Assignment and timetable tracking
+Messaging/communication system between users
+Centralized academic dashboard
+
 
 ### 🧠 EchoEye (Optional – add if you want 🔥)
 An assistive application designed for visually impaired students using voice interaction and image recognition.
