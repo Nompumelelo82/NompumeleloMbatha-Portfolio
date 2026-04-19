@@ -107,10 +107,6 @@ voice interaction and image recognition.
 
 ---
 
-## 🎥 Mock Interview Video
-
-> *This mock interview was conducted as part of my Work Readiness Training
-> at CPUT to prepare for professional job interviews in the ICT industry.*
 
 ## 🎥 Mock Interview Video
 
