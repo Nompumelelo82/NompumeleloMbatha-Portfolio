@@ -112,12 +112,7 @@ voice interaction and image recognition.
 
 > *Mock interview conducted as part of Work Readiness Training at CPUT*
 
-<iframe width="600" height="340"
-src="https://www.youtube.com/embed/suM7of5qito"
-title="Mock Interview Video"
-frameborder="0"
-allowfullscreen>
-</iframe>
+
 ---
 
 ## 🪞 Reflections
