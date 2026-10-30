@@ -1,7 +1,8 @@
 # Product Backlog
 
 ## What a Product Backlog Is
-A Product Backlog is the prioritised list of everything a product needs: features, technical work, bug fixes and improvements. For SafeGuard Soshanguve, ours lives on Trello in the "Product Backlog" column, which holds 62 cards. From there, the team pulled stories into sprints.
+A Product Backlog is the prioritised list of everything a product needs: features, technical work, bug fixes and improvements.
+Our Trello Product Backlog column holds 62 cards. Each card is one backlog item with a due date and an owner, shown by their initials. The list below follows the order of the board, and the Sprint column shows which weekly sprint each item was planned into.
 
 ## Product Vision
 To make Soshanguve a safer community by giving residents an affordable, locally run security service backed by a mobile alert app for fast emergency response.
@@ -44,60 +45,86 @@ To make Soshanguve a safer community by giving residents an affordable, locally 
 
 ## Backlog Items
 
-| # | User Story | Theme | Priority | Planned Sprint |
+| # | Backlog item | Due | Owner | Sprint |
 | --- | --- | --- | --- | --- |
-| 1 | Set up Spring Boot project structure | Technical foundation | Must have | Sprint 1 |
-| 2 | Design and implement database schema | Technical foundation | Must have | Sprint 1 |
-| 3 | Register an account using a phone number | Resident account | Must have | Sprint 2 |
-| 4 | Set up a home address by dropping a pin on the map | Resident account | Must have | Sprint 2 |
-| 5 | Add up to 3 emergency contacts | Resident account | Should have | Sprint 2 |
-| 6 | Register a guard profile with ID number and training certificate | Guard management | Must have | Sprint 3 |
-| 7 | Receive an emergency alert notification with resident name and location | Emergency alerts | Must have | Sprint 3 |
-| 8 | Press the SOS button to trigger an emergency alert | Emergency alerts | Must have | Sprint 4 |
-| 9 | Hold down the SOS button to confirm and avoid accidental triggers | Emergency alerts | Must have | Sprint 4 |
-| 10 | Share live GPS location during an alert | Emergency alerts | Must have | Sprint 4 |
-| 11 | Receive a push notification when a guard accepts the alert | Alert updates | Should have | Sprint 5 |
-| 12 | Receive a push notification when the guard is on route | Alert updates | Should have | Sprint 5 |
-| 13 | Rate the guard's response after an incident is resolved | Feedback | Could have | Sprint 6 |
-| 14 | View full personal alert history with dates, guards and outcomes | Feedback | Could have | Sprint 6 |
-| 15 | Receive community safety broadcast alerts from admin | Community safety | Should have | Sprint 7 |
-| 16 | View a map of recent crime hotspots in the township | Community safety | Should have | Sprint 7 |
-| 17 | Log out of the app | Resident account | Should have | Sprint 7 |
-| 18 | Navigate to the resident using in-app map routing | Guard response | Must have | Sprint 8 |
-| 19 | Accept an incoming alert within the required response window, or decline if unavailable | Guard response | Must have | Sprint 8 |
-| 20 | Upload ID for verification during registration | Guard management | Must have | Sprint 9 |
-| 21 | Receive a notification when my profile is approved or rejected by admin | Guard management | Should have | Sprint 9 |
-| 22 | View equipment checklist and confirm equipment issued | Guard management | Could have | Sprint 9 |
-| 23 | Register and approve new security guard profiles | Admin tools | Must have | Sprint 10 |
-| 24 | Assign guards to specific patrol zones on the map | Admin tools | Should have | Sprint 10 |
-| 25 | Deactivate or suspend a guard | Admin tools | Should have | Sprint 10 |
-| 26 | Approve or reject community incident reports before they go public | Admin tools | Should have | Sprint 11 |
-| 27 | Post community safety announcements to residents in a specific area | Admin tools | Should have | Sprint 11 |
-| 28 | Manage membership payments | Payments | Should have | Sprint 12 |
-| 29 | Handle refunds or fee disputes | Payments | Could have | Sprint 12 |
-| 30 | Manage guard equipment | Admin tools | Could have | Sprint 12 |
+| 1 | Set up Spring Boot project structure | Jul 20 | RM | 1 |
+| 2 | Design and implement database schema | Jul 21 | TM | 1 |
+| 3 | Register an account using a phone number | Jul 27 | AM | 2 |
+| 4 | Set up a home address by dropping a pin on the map | Jul 28 | RM | 2 |
+| 5 | Add up to 3 emergency contacts | — | — | 2 |
+| 6 | Register a guard profile with ID number and training certificate | Aug 3 | N | 3 |
+| 7 | Receive an emergency alert notification with resident name and location | Aug 7 | YM | 3 |
+| 8 | Press the SOS button to trigger an emergency alert | Aug 10 | N | 4 |
+| 9 | Hold down the SOS button to confirm and avoid accidental triggers | Aug 11 | AM | 4 |
+| 10 | Share live GPS location | — | — | 4 |
+| 11 | Receive a push notification when a guard accepts the alert | Aug 17 | N | 5 |
+| 12 | Receive a push notification when the guard is on route | Aug 18 | AM | 5 |
+| 13 | Receive a push notification when the guard has arrived | Aug 19 | TM | 5 |
+| 14 | Cancel a false alarm before the guard departs | Aug 20 | YM | 5 |
+| 15 | View the full details of a resolved incident | Aug 21 | RM | 5 |
+| 16 | Rate the guard's response after an incident is resolved | Aug 24 | AM | 6 |
+| 17 | View full personal alert history with dates, guards, and outcomes | Aug 25 | N | 6 |
+| 18 | Report on suspicious activity in the area | Aug 26 | YM | 6 |
+| 19 | Select an incident type | Aug 27 | RM | 6 |
+| 20 | View a live community crime feed filtered by area | Aug 28 | TM | 6 |
+| 21 | Receive community safety broadcast alerts from admin | Aug 31 | RM | 7 |
+| 22 | View a map of recent crime hotspots in the township | Sep 1 | AM | 7 |
+| 23 | Log out of the app | Sep 2 | N | 7 |
+| 24 | Set up payment method and pay monthly membership fee | Sep 3 | TM | 7 |
+| 25 | Navigate to the resident using in-app map routing | Sep 7 | RM | 8 |
+| 26 | Accept an incoming alert within the required response window, decline an alert if unavailable | Sep 8 | AM | 8 |
+| 27 | Update availability status (available, on break, off duty) | — | — | 8 |
+| 28 | Add notes when resolving an incident | — | — | 8 |
+| 29 | View personal response history and past incidents handled | Sep 11 | N | 8 |
+| 30 | Upload PSIRA certificate and ID for verification during registration | Sep 14 | RM | 9 |
+| 31 | Receive notification when profile is approved/rejected by admin | Sep 15 | AM | 9 |
+| 32 | View equipment checklist / confirm equipment issued | Sep 16 | N | 9 |
+| 33 | Report an equipment issue or request replacement | Sep 17 | TM | 9 |
+| 34 | Flag a safety concern about a specific alert | — | — | 9 |
+| 35 | Register and approve new security guard profiles | Sep 21 | RM | 10 |
+| 36 | Assign guards to specific patrol zones on the map | Sep 22 | AM | 10 |
+| 37 | Deactivate or suspend a guard | — | — | 10 |
+| 38 | View a live dashboard of all active alerts in real time | Sep 24 | TM | 10 |
+| 39 | View live positions of all on-duty guards on the map | Sep 25 | YM | 10 |
+| 40 | Approve or reject community incident reports before they go public | Sep 28 | AM | 11 |
+| 41 | Post community safety announcements to residents in a specific area | Sep 29 | RM | 11 |
+| 42 | Generate monthly reports on incidents and response times | Sep 30 | N | 11 |
+| 43 | View guard performance metrics and average response times | — | — | 11 |
+| 44 | Manage membership payments | Oct 5 | RM | 12 |
+| 45 | Handle refunds or fee disputes | Oct 6 | AM | 12 |
+| 46 | Manage guard equipment inventory | Oct 7 | N | 12 |
+| 47 | Broadcast emergency-wide alert (not area-specific) | Oct 8 | TM | 12 |
+| 48 | Review and resolve guard safety flags | Oct 9 | YM | 12 |
+| 49 | Integrate payment gateway sandbox and webhook handling | Oct 12 | AM | 13 |
+| 50 | Set up WebSocket channel for live alert status updates | Oct 13 | RM | 13 |
+| 51 | Implement API rate limiting / abuse protection on SOS endpoint | Oct 14 | N | 13 |
+| 52 | Write API documentation | Oct 15 | TM | 13 |
+| 53 | Set up error logging/monitoring | Oct 16 | YM | 13 |
+| 54 | Write unit tests | Oct 19 | RM | 14 |
+| 55 | Set up staging environment | — | — | 14 |
+| 56 | POPIA compliance review | Oct 21 | N | 14 |
+| 57 | Conduct security penetration testing before launch | Oct 22 | TM | 14 |
+| 58 | Set up automated database backup and recovery plan | Oct 23 | YM | 14 |
+| 59 | Set up load testing for the SOS/alert endpoint | Oct 30 | TM | 15 |
+| 60 | Set up mobile app crash reporting | — | — | 15 |
 
-The Trello column holds 62 cards in total. The table above lists the main stories, and the rest are smaller technical and supporting cards.
-
-## How We Prioritised
-We ordered the backlog by how much each story supports SafeGuard's core promise: a fast response in an emergency. Stories that make the SOS alert work came first, because without them there is no product. Features like ratings, alert history and payments came later, because they improve the service but do not stop it from working. We used Must have, Should have and Could have to show this.
+## How the Backlog Is Ordered
+Our backlog is ordered by due date, and the order follows what had to be built first. The project starts with the technical foundation (the Spring Boot project and the database), then resident registration, and then the core SOS alert. After that come the updates around an alert (guard accepted, on route, arrived), incident reporting and community safety features, then the guard's own tools, then admin tools and payments. The last items are technical and quality work: API documentation, error logging, unit tests, a POPIA compliance review, penetration testing, database backups and load testing. The most important promise of SafeGuard, a fast response in an emergency, comes first, and the features that improve the service but do not stop it from working come later.
 
 ## Reflection
 
-**What I did.** For SafeGuard Soshanguve, our team kept every feature, technical task and idea in one Product Backlog on Trello. By the time we finished planning, the column held 62 cards. We wrote most of them as user stories from the point of view of residents, security guards and admins, for example "Press the SOS button to trigger an emergency alert" and "Register a guard profile with ID number and training certificate". We then put the items in order so the most important work would be built first, and pulled them into sprints from the top of the list.
+**What I did.** For SafeGuard Soshanguve, our team kept the whole product in one Product Backlog column on Trello, which holds 62 cards. Each card is a piece of work, such as "Press the SOS button to trigger an emergency alert" or "Set up WebSocket channel for live alert status updates". Every card has a due date and an owner, and the cards are ordered so the work needed first sits at the top. We then used this backlog as the source for our weekly sprints.
 
-**What I expected versus what I found.** At the start, I thought a product backlog was simply a big to-do list. Once we had dozens of items, I understood that it is really a list of choices. Everything felt important, but we had a limited number of sprints and a limited team, so we could not build everything at once. The backlog forced us to decide what mattered most and what could wait.
+**What I learned about ordering.** The first thing I understood is that a product backlog is not just a list of ideas, it is an ordered plan. Looking at our board, the order follows dependencies. We could not build push notifications about a guard being on route before the SOS alert existed, and we could not assign guards to patrol zones before guards could register. The database and project setup had to come first, because everything else is built on top of them. This showed me that ordering a backlog means thinking about what depends on what, as well as what matters most.
 
-**How we decided on priorities.** Our priorities came from the problem we were solving. Our research showed that residents in Soshanguve worry about crime and slow emergency response. Our customer persona, Andile, wants affordable and fast protection. So the SOS button, live location sharing and guard response went to the top, because without them SafeGuard is not a security product at all. Features like rating a guard, viewing alert history and handling refunds were useful but came later, because the service still works without them. I used Must have, Should have and Could have to make these decisions visible. This taught me that prioritising is not about what is most interesting to build, it is about what delivers the most value to the user.
+**Why the core promise came first.** Our research and our customer persona, Andile, showed that residents in Soshanguve are afraid of slow emergency response and want protection that is affordable. So the SOS button and the guard response were built early. Features like rating a guard, viewing alert history, monthly reports and refunds are useful, but the service still works without them, so they came later. I learned that prioritising is about value to the user, not about which feature is most interesting to build.
 
-**Why the order and the technical work matter.** Not every backlog item is a feature that a resident sees. Items like setting up the Spring Boot project structure and designing the database schema had to come first, because nothing else could be built without them. I learned that a good backlog includes this behind-the-scenes work too, and that some items must be done early because other items depend on them. For example, the guard push notifications could not be built before the SOS alert existed, and admin approval of guards could not be built before guards could register.
+**Technical and legal work belongs in the backlog too.** Not every card is a feature a resident sees. Our backlog includes API documentation, error logging, unit tests, a staging environment, load testing, database backups and a POPIA compliance review. I learned that these are just as important as the visible features. SafeGuard handles names and locations during emergencies, so protecting that information and making sure the SOS system does not fail under pressure are part of delivering a safe product, not extras.
 
-**How feedback changed the backlog.** Our lecturer's feedback pushed us to test our assumptions with the community instead of guessing, including whether residents would pay R100 to R200 a month. That showed me that a backlog is a living document. It should change as we learn more, and adding, removing or reordering items is a normal part of Agile, not a sign that the plan failed.
+**A backlog changes.** Our lecturer's feedback pushed us to check our assumptions with the community instead of guessing, for example whether residents would pay R100 to R200 a month. That taught me that a backlog is a living document. It should change when we learn something new, and adding or reordering items is a normal part of Agile.
 
-**What was difficult.** The hardest part was keeping 62 items clear. Some stories were too big and had to be broken into smaller ones, and a few cards were technical rather than user-focused, which made them awkward to write in the "As a user, I want..." format. It was also easy for similar stories to overlap, so we had to check the list regularly to avoid duplicates. Deciding which stories were truly Must have and which were only Should have also took discussion, because different team members cared about different features.
+**What was difficult.** The biggest challenge was keeping 62 cards organised and in a sensible order. Our backlog mixes user stories with technical tasks, and technical items like rate limiting and logging are hard to write in the "As a user, I want..." format, so some cards read as tasks and not as stories. It also took care to keep each card small enough to finish within one sprint.
 
-**How it connects to the rest of my portfolio.** The product backlog is built from our user stories, and our team charter set the rules for how we managed it, such as every task having an owner. From the backlog we chose items for the Sprint Backlog, where each sprint has its own goal, due dates and owners. Our Agile Logbook then records the stand-ups and retrospectives where we discussed how the work was going and what to change. Together these pieces show the full Agile process from idea to delivery.
+**How it connects to the rest of my portfolio.** The backlog comes from our user stories, and it feeds our Sprint Backlog, where each week's cards become a sprint with owners and due dates. Our Agile Team Charter set the rule that every task has an owner, and you can see that on every card. The Agile Logbook records the stand-ups where we reported on this work.
 
-**What I learned about myself and my skills.** This exercise improved my planning, my ability to think from the user's point of view, and my ability to make trade-offs. I also became more comfortable using Trello to organise a large project and to communicate with the team about who is doing what and when.
-
-**What I would do differently.** Next time I would give every item an effort estimate from the start, so we could see how much work each sprint can really hold. I would review and re-prioritise the backlog with the whole team after every sprint so it never gets out of date. I would also involve real community members in ranking the features, since they know best what they need, and write acceptance criteria for each story so the whole team agrees on what "done" means.
+**What I would do differently.** Next time I would add an effort estimate and a clear priority label to every card, so we could see how much work each sprint can really hold. I would write acceptance criteria for every story so the whole team agrees on what "done" means, and I would review and reorder the backlog with the team after every sprint. I would also ask community members to help rank the features, since they know best what they need.
