@@ -13,7 +13,7 @@ Every item on our Trello board is a user story. We wrote each one in the format 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/33592a36-7a4a-45f5-8873-7e061e252ad5" />
 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/45c68134-e04e-4a35-bcae-eea44677961b" />
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d32a414-1f0d-4e17-9cea-e05e2ae4b9a0" />
 
 
@@ -23,6 +23,8 @@ Every item on our Trello board is a user story. We wrote each one in the format 
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/812ba581-3e84-489c-8067-e7b17404b3e4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a095dcfc-c5d9-4f55-b4d3-cc4faf0749ca" />
+
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/18b4bdcb-32b6-46f9-9831-0d6e4415e726" />
 
