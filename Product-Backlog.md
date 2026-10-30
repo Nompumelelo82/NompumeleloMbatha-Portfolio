@@ -105,8 +105,11 @@ To make Soshanguve a safer community by giving residents an affordable, locally 
 | 56 | POPIA compliance review | Oct 21 | N | 14 |
 | 57 | Conduct security penetration testing before launch | Oct 22 | TM | 14 |
 | 58 | Set up automated database backup and recovery plan | Oct 23 | YM | 14 |
-| 59 | Set up load testing for the SOS/alert endpoint | Oct 30 | TM | 15 |
-| 60 | Set up mobile app crash reporting | — | — | 15 |
+| 59 | Complete in-app safety onboarding training module | Oct 27 | N, TM | 15 |
+| 60 | Implement SMS fallback integration | Oct 28 | RM | 15 |
+| 61 | Implement caching layer for guard location lookups | Oct 28 | AM | 15 |
+| 62 | Set up load testing for the SOS/alert endpoint | Oct 30 | TM | 15 |
+| 63 | Set up mobile app crash reporting | — | — | 15 |
 
 ## How the Backlog Is Ordered
 Our backlog is ordered by due date, and the order follows what had to be built first. The project starts with the technical foundation (the Spring Boot project and the database), then resident registration, and then the core SOS alert. After that come the updates around an alert (guard accepted, on route, arrived), incident reporting and community safety features, then the guard's own tools, then admin tools and payments. The last items are technical and quality work: API documentation, error logging, unit tests, a POPIA compliance review, penetration testing, database backups and load testing. The most important promise of SafeGuard, a fast response in an emergency, comes first, and the features that improve the service but do not stop it from working come later.
