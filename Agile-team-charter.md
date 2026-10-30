@@ -52,6 +52,17 @@ Crime is a serious problem in Soshanguve, and many residents cannot afford big p
 ## A Living Document
 This charter is not written once and forgotten. When something causes friction, such as unclear cards, uneven sprint sizes or late tasks, we change our agreements and update this page. Our lecturer's feedback on validating our idea with the community is one example. It changed our plan, and we then tested our assumptions with surveys and our Instagram page @safeguard.soshanguve.
 
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/060aa0a7-8c5a-4e93-9c76-7f73b1c636d4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/9d820683-90ef-40bb-96ee-b6a883d7eeb2" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e4c941ce-b870-470f-be26-3d822e02d69d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/855a30b5-a706-4102-9334-dc61d44fe836" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2b3ce2b1-7434-430e-ba65-37f122cc96e0" />
+
+
+
+
+
+
 ## Reflection
 
 **What I did.** At the start of SafeGuard Soshanguve, our team agreed how we would work together and wrote it into this charter. It covers why we are building the product, the values we share, the rules we follow day to day, and the limits we work within. The definition of a charter calls it a "social contract", and that is what it became for us: a single page we could point to when anyone was unsure what was expected.
