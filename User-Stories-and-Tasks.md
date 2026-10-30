@@ -14,6 +14,8 @@ Every item on our Trello board is a user story. We wrote each one in the format 
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/45c68134-e04e-4a35-bcae-eea44677961b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4d32a414-1f0d-4e17-9cea-e05e2ae4b9a0" />
+
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0dc83350-993a-4f77-af6d-0f21068d63d2" />
 
