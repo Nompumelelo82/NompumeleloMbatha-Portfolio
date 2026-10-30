@@ -1,4 +1,5 @@
 ---
+permalink: /
 --- 
 # 👋 Hi, I'm Nompumelelo Mbatha
 **Aspiring Software Engineer | ICT Applications Development Student**
