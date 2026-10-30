@@ -1,3 +1,5 @@
+---
+--- 
 # 👋 Hi, I'm Nompumelelo Mbatha
 **Aspiring Software Engineer | ICT Applications Development Student**
 
@@ -183,8 +185,20 @@ potential employers and include in job applications.
 
 ## Agile Portfolio
 
-- [Agile Team Charter](Agile-team-charter.md)
-- [User Stories and Tasks](User-Stories-and-Tasks.md)
-- [Product Backlog](Product-Backlog.md)
-- [Sprint Backlog](Sprint-Backlog.md)
-- [Agile Logbook](Agile-Logbook.md)
+{% include_relative Agile-team-charter.md %}
+
+---
+
+{% include_relative User-Stories-and-Tasks.md %}
+
+---
+
+{% include_relative Product-Backlog.md %}
+
+---
+
+{% include_relative Sprint-Backlog.md %}
+
+---
+
+{% include_relative Agile-Logbook.md %}
